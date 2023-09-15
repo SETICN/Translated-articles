@@ -1,5 +1,8 @@
 # 2023 年 9 月 4 日星球图片每日一图 - 本周的图片
 
+- 原文地址：[Planetary Picture of the Day - Week of September 4, 2023](https://www.seti.org/planetary-picture-day-week-september-4-2023)
+
+
 ![每日星球图片](https://github.com/SETICN/Translated-articles/assets/10327999/475b3a82-351d-468f-92bf-4ea35017a477)
 
 每日星球图片
