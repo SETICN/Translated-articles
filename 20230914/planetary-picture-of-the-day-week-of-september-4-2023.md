@@ -1,6 +1,6 @@
 # 2023 年 9 月 4 日星球图片每日一图 - 本周的图片
 
-![image](https://github.com/SETICN/Translated-articles/assets/10327999/475b3a82-351d-468f-92bf-4ea35017a477)
+![每日星球图片](https://github.com/SETICN/Translated-articles/assets/10327999/475b3a82-351d-468f-92bf-4ea35017a477)
 
 每日星球图片
 
